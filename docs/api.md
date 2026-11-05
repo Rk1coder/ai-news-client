@@ -88,4 +88,4 @@ Tüm hatalar `{"detail": "..."}` gövdesiyle standart HTTP durum koduyla döner
 
 - Rate limiting yok; istemci taraflı makul bir çağrı sıklığı önerilir.
 - Sürümleme yok; kırıcı değişiklikler önceden haber verilir.
-- Tek kiracılı mimari: bir API anahtarı tüm veriye erişir, kullanıcı/müşteri bazlı ayrım yoktur.
+- Tek kiracılı mimari: bir API anahtarı tüm veriye erişir, kullanıcı bazlı ayrım yoktur.
