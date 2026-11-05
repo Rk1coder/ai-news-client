@@ -20,8 +20,6 @@ bir kullanıcı `docker compose up` ile kendi örneğini ayağa kaldırır ve
 
 ## Nasıl çalışır
 
-![Mimari şema](docs/diagrams/architecture.svg)
-
 ![API erişim kapsamı](docs/diagrams/api-access.png)
 
 ![Kaynaktan API'ye veri akışı](docs/diagrams/pipeline-flow.png)
