@@ -22,6 +22,10 @@ bir kullanıcı `docker compose up` ile kendi örneğini ayağa kaldırır ve
 
 ![Mimari şema](docs/diagrams/architecture.svg)
 
+![API erişim kapsamı](docs/diagrams/api-access.png)
+
+![Kaynaktan API'ye veri akışı](docs/diagrams/pipeline-flow.png)
+
 İki bağımsız servis aynı veritabanını paylaşır:
 
 - **`api`** (FastAPI, `:8008`) — dış istemcilerin `X-API-Key` ile çağırdığı
