@@ -1,4 +1,4 @@
-# AI News Radar — API
+# AI News — API
 
 Tarama → doğrulama → sınıflandırma pipeline'ı ile AI/teknoloji gelişmelerini
 izleyen sistemin sadece API/backend kısmı. Web arayüzü yoktur; tüm işlevlere
